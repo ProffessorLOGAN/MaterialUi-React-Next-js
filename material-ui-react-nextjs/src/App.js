@@ -1,5 +1,8 @@
 import React from "react";
-import Papercomp from "./components/Papercomp";
+import Gridcomp from "./components/Gridcomp";
+// import Themecomp from "./components/Themecomp";
+// import Utility from "./components/Utility";
+// import Papercomp from "./components/Papercomp";
 import "./styles/App.css";
 // import Boxcomp from "./components/Box";
 // import Typographycopm from "./components/Typographycopm";
@@ -13,7 +16,11 @@ function App() {
       {/* <Typographycopm /> */}
       {/* <Containercomp /> */}
       {/* <Csstheme /> */}
-      <Papercomp />
+      {/* <Papercomp /> */}
+      {/* <Themecomp /> */}
+      {/* <Utility /> */}
+      <Gridcomp />
+
     </>
   );
 }
