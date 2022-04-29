@@ -1,5 +1,7 @@
 import React from "react";
-import Gridcomp from "./components/Gridcomp";
+import Cards from "./components/Cards";
+// import Fabs from "./components/Fabs";
+// import Gridcomp from "./components/Gridcomp";
 // import Themecomp from "./components/Themecomp";
 // import Utility from "./components/Utility";
 // import Papercomp from "./components/Papercomp";
@@ -19,7 +21,9 @@ function App() {
       {/* <Papercomp /> */}
       {/* <Themecomp /> */}
       {/* <Utility /> */}
-      <Gridcomp />
+      {/* <Gridcomp /> */}
+      {/* <Fabs /> */}
+      <Cards />
 
     </>
   );
